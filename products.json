@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" Facial Serum",
+        "price": 1500,
+        "image": "assets/images/product-01.jpg"
+    },
+    {
+        "id": 2,
+        "name":" coffee Bean Caffeine Eye Cream",
+        "price": 250,
+        "image": "assets/images/product-02.jpg"
+    },
+    {
+        "id": 3,
+        "name":" Hydra eye serum path",
+        "price": 690,
+        "image": "assets/images/product-03.jpg"
+    },
+    {
+        "id": 4,
+        "name":" ceramide & hyaluronic Face Moisturizer",
+        "price": 389,
+        "image": "assets/images/product-04.jpg"
+    },
+    {
+        "id": 5,
+        "name":" Facial Cleanser",
+        "price": 300,
+        "image": "assets/images/product-05.jpg"
+    },
+    {
+        "id": 6,
+        "name":" face mist with green tea & Niacinamide",
+        "price": 599,
+        "image": "assets/images/product-06.jpg"
+    },
+    {
+        "id": 7,
+        "name":" advanced organics tea tree skin",
+        "price": 349,
+        "image": "assets/images/product-07.jpg"
+    },
+    {
+        "id": 8,
+        "name":" acne avert foaming mousse",
+        "price": 399,
+        "image": "assets/images/product-08.jpg"
+    }
+
+]
